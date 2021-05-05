@@ -1,2 +1,3 @@
-ver 0.1
+ver 0.2
 makes copy from list of ftp folders and zip it
+delete files older than 10 days
