@@ -1,7 +1,7 @@
 #!/usr/bin/env	python3
 from lib import *
 
-FTP_ADDR = '192.168.1.53'
+FTP_ADDR = '192.168.1.50'
 LOGIN = 'esp'
 PASSW = 'esp'
 DEBUG_LVL = 1

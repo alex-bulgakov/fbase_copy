@@ -16,7 +16,7 @@ def remove(path):
 
 
 path = "backup"
-check_date = datetime.today() - timedelta(minutes=10)
+check_date = datetime.today() - timedelta(days=30)
 for i in os.listdir(path):
     try:
         fname = pathlib.Path(path + '/' + i)
